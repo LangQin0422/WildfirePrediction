@@ -1,6 +1,6 @@
 # WildfirePrediction
 This is a research project about developing a machine learning model for wildfire magnitude prediction, based on features prior to the happening of the wildfire. The features include temperature, wind, precipitation, and humudity. 
-__
+
 ## Files included
 1. One PDF file: PaperTeam1.pdf - final draft of the research
 2. Three CSV files: 1) FW_Veg_Rem_Combined.csv - original wildfire data; 2) class.csv - preprocessed data extracted from the original data for classification; 3) regress.csv - preprocessed data extracted from the original data for regression
